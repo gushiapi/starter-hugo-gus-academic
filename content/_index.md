@@ -31,7 +31,7 @@ sections:
           location: Chengdu
           date_start: '2017-07-01'
           date_end: ''
-          description: 'Research Interests: Computational Neuroscience, Machine Learning'
+          description: '**Research Interests**: Computational Neuroscience, Machine Learning'
 
         - title: Ph.D in Applied Mathematics
           company: University of Pennsylvania
@@ -40,7 +40,7 @@ sections:
           location: Philadelphia, USA
           date_start: '2011-06-22'
           date_end: '2016-05-13'
-          description: 'Thesis: Control Theoretic Analysis of Human Brain Networks'
+          description: '**Thesis**: Control Theoretic Analysis of Human Brain Networks'
     design:
       columns: '2'
   - block: accomplishments
