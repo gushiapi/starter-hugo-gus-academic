@@ -52,5 +52,4 @@ and Engineering at the [University of Electronic Science and Technology of China
 my Ph.D. degree under the supervision of [Dr. Danielle S. Bassett](https://www.seas.upenn.edu/directory/profile.php?ID=193) 
 from the [Complex System Group](https://complexsystemsupenn.com/) at the [University of Pennsylvania](https://www.upenn.edu/). 
 Before that, I spent four years (2007-2011) in [Tsinghua University](https://www.tsinghua.edu.cn/) for my undergraduate 
-degree in the Academic Talent Program, majoring in mathematics and physics. 
-{style="text-align: justify;"}
+degree in the Academic Talent Program, majoring in mathematics and physics. 
