@@ -36,7 +36,7 @@ sections:
         - title: Ph.D in Applied Mathematics
           company: University of Pennsylvania
           company_url: ''
-          company_logo: org-x
+          company_logo: uploads/pennlogo.png
           location: Philadelphia, USA
           date_start: '2011-06-22'
           date_end: '2016-05-13'
