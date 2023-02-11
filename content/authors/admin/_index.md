@@ -1,7 +1,7 @@
 ---
 title: Shi Gu
 role: Professor of Computer Science
-avatar_filename: uploads/gusava.jpg
+avatar_filename: uploads/gusava.png
 bio: "My research interests include computational neuroscience and
   brain-inspired learning. "
 interests:
@@ -42,8 +42,6 @@ education:
       institution: University of Pennsylvania
       year: 2016
 superuser: true
-status:
-  icon: ☕️
 last_name: Gu
 highlight_name: true
 first_name: Shi
