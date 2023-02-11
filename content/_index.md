@@ -28,8 +28,8 @@ sections:
           company: University of Electronic Science and Technology of China
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Chengdu
+          date_start: '2017-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -45,7 +45,7 @@ sections:
           location: Philadelphia, USA
           date_start: '2011-06-22'
           date_end: '2016-05-13'
-          description: Thesis: Control Theoretic Analysis of Human Brain Networks.
+          description: Thesis Control Theoretic Analysis of Human Brain Networks.
     design:
       columns: '2'
   - block: accomplishments
