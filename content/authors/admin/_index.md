@@ -44,9 +44,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Gu
 highlight_name: true
-first_name: Alice
+first_name: Shi
 email: gus@uestc.edu.cn
 ---
 I am currently a [professor](https://faculty.uestc.edu.cn/gushi/zh_CN/index.htm) in the Department of Computer Science
