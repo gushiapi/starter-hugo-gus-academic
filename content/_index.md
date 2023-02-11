@@ -29,9 +29,14 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2017-07-01'
-          date_end: '2023-12-31'
-          description: Research interests: computational neuroscience, machine learning
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
 
         - title: Ph.D in Applied Mathematics
           company: University of Pennsylvania
