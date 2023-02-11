@@ -31,7 +31,7 @@ sections:
           location: California
           date_start: '2017-07-01'
           date_end: ''
-          description: Research interests: computational neuroscience, machine learning
+          description: Research interests computational neuroscience, machine learning
 
         - title: Ph.D in Applied Mathematics
           company: University of Pennsylvania
