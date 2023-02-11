@@ -11,27 +11,29 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/gushilab
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=9_jlOXUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shi-gu-102b9a5b/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Electronic Science and Technology of China
+    url: https://www.uestc.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -49,7 +51,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: gus@uestc.edu.cn
 ---
 I am currently a [professor](https://faculty.uestc.edu.cn/gushi/zh_CN/index.htm) in the Department of Computer Science
 and Engineering at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I completed
