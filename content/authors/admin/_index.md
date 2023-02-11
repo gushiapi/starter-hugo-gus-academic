@@ -30,7 +30,7 @@ social:
     link: https://www.linkedin.com/in/shi-gu-102b9a5b/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: assets/media/shigu_cv.pdf
 organizations:
   - name: University of Electronic Science and Technology of China
     url: https://www.uestc.edu.cn/
