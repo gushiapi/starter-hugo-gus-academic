@@ -2,8 +2,8 @@
 title: Shi Gu
 role: Professor of Computer Science
 avatar_filename: gus-photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include computational neuroscience and
+  brain-inspired learning. "
 interests:
   - Network Neuroscience
   - Artificial Intelligence
@@ -30,7 +30,9 @@ social:
     link: https://www.linkedin.com/in/shi-gu-102b9a5b/
   - icon: cv
     icon_pack: ai
-    link: assets/media/shigu_cv.pdf
+    link: /assets/media/shigu_cv.pdf
+    display:
+      header: false
 organizations:
   - name: University of Electronic Science and Technology of China
     url: https://www.uestc.edu.cn/
