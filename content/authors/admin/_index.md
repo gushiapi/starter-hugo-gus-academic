@@ -1,5 +1,5 @@
 ---
-title: Shi Gu
+title: GusLab
 role: Professor of Computer Science
 avatar_filename: uploads/gusava.png
 bio: "My research interests include computational neuroscience and
