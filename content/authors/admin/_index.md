@@ -1,7 +1,7 @@
 ---
 title: GusLab
 role: Professor of Computer Science
-avatar_filename: uploads/gusava.png
+avatar_filename: ""
 bio: "My research interests include computational neuroscience and
   brain-inspired learning. "
 interests:
