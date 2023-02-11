@@ -1,7 +1,7 @@
 ---
 title: Shi Gu
 role: Professor of Computer Science
-avatar_filename: gus-photo.jpg
+avatar_filename: gusavantar.jpg
 bio: "My research interests include computational neuroscience and
   brain-inspired learning. "
 interests:
