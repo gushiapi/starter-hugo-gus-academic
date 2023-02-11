@@ -1,12 +1,12 @@
 ---
 title: Shi Gu
 role: Professor of Computer Science
+avatar_filename: gus-photo.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Network Neuroscience
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -51,6 +51,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a [professor](https://faculty.uestc.edu.cn/gushi/zh_CN/index.htm) in the Department of Computer Science
+and Engineering at the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I completed
+my Ph.D. degree under the supervision of [Dr. Danielle S. Bassett](https://www.seas.upenn.edu/directory/profile.php?ID=193) 
+from the [Complex System Group](https://complexsystemsupenn.com/) at the [University of Pennsylvania](https://www.upenn.edu/). 
+Before that, I spent four years (2007-2011) in [Tsinghua University](https://www.tsinghua.edu.cn/) for my undergraduate 
+degree in the Academic Talent Program, majoring in mathematics and physics. 
 {style="text-align: justify;"}
